@@ -22,4 +22,4 @@ Provides detailed output, progress bars, and automatic installation of CLI binar
 ```bash
 git clone https://github.com/ssl1th3r/GoPM-offical.git
 cd GoPM-offical
-sudo mv gopm /usr/bin
+mv gopm /usr/bin
