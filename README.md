@@ -5,7 +5,7 @@ It supports installing standalone binaries package.
 Provides detailed output, progress bars, and automatic installation of CLI binaries.
 
 ## / WARNING! /
- - Package Manager support only binaries package, no zip! I will add support in the future.
+ - Package Manager support only binaries package, not zip! I will add support in the future.
 ---
 
 ## / Features /
